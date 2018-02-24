@@ -1,36 +1,18 @@
-# 04-image-puzzle
+This project is incomplete...
 
-Your first pygame project! This is the fourth programming assignment for ILS-Z399. The requirements for this assignment are as follows:
+I do not feel like I have retained enough knowledge to do so. There are a couple of reasons why that I think that is.
 
-* Write a Python program for playing a simple "sliding puzzle" game
-* A popular variant of the sliding puzzle game is the [15 Puzzle](https://en.wikipedia.org/wiki/15_puzzle). That would be a good place to start
-* Using pygame, draw a window and graphics inside the window
-* Capture mouse or keyboard events (or both) to enable user interaction
-* Report a winning condition if the player completes the puzzle
-* Extra credit will be awarded if the puzzle is an image rather than colored shapes (but get the shapes working first!)
-* You can assume that the user will have pygame installed on their system
-* This is a big step up in complexity, so ask for help if you run into trouble!
+Firstly, the way my brain holds and discards knowledge. It usually just keeps stuff in on the short term. Usually so I can actually do assignments and get good grades within the short timeframe that the information is relevent, and then discarding it.
+I have also realized that the best way that I do retain information is by going through and actually applying the information on the fly, in like class activities where what we learn is applied immmediatly, which somehow makes me remember it longer
 
-To get a perfect score, you will need to think creatively! Think about ways you can make this project more interesting or fun. Also, remember to edit the README.md and LICENSE files.
+The second possible reason could be the class being early in the morning and im kinda sorta half asleep during the class. Sure, I might look awake, but Im not completely there. Maybe picking on me would help keep me awake, or at the very least immersed in the classroom environment.
 
-To complete this assignment you will need to understand:
+Regardless of which, I think I need tutoring with a programming tutor. I have to do required study tables at Eigehman hall due to me making a few trivial mistakes last semester so I have to have at least six hours being there working on something. If you could reccomend a tutor to me, or tutor me yourself, while I am doing these study table hours, I think it would be a very helpful towards my performance and understanding of programming.
 
-* How to use the [pygame library](https://www.pygame.org/docs/)
-* [Classes and objects](https://docs.python.org/3/tutorial/classes.html) will probably be useful
-* [The Game Loop](https://gamedevelopment.tutsplus.com/articles/gamedev-glossary-what-is-the-game-loop--gamedev-2469) and [pygame events](http://www.raspberry-pi-geek.com/Archive/2014/05/Pygame-modules-for-interactive-programs)
+If things are not going too well performance wise after the next assignment, I will drop the class and learn programming from another class. I will make sure not to make it a morning class as well, since that usually has a negative effect on my performance in whatever class it is.
 
----
 
-The grading criteria will be as follows:
 
-* [1 point] Assignment turned in on time
-* [1] Repository contains an appropriate software license
-* [2] Repository contains a descriptive README.md
-* [1] Requires Python 3
-* [1] No syntax errors
-* [8] Accomplishes the objective of the assignment
-* [2] No other runtime errors
-* [2] Validates user input (if necessary)
-* [2] Adds interesting features (beyond the scope of the assignment)
+In all honesty, game programming and some game design are the only reasons Im in college, and if I had it my way that would be all I would be learning. Too bad I have other classes I got to balance out too.
 
-20 points total
+If you do not see this readme by this monday, I will instead tell you about the readme file.
